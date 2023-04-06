@@ -86,7 +86,7 @@ footer h2 {
     margin-left: 25px;
 }
 
-.search-engine-optimization,.online-reputation-management,.social-media-marketing{
+#search-engine-optimization,#online-reputation-management,#social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -95,11 +95,11 @@ footer h2 {
     color: #ffffff;
 }
 
-.search-engine-optimization img,.online-reputation-management img,.social-media-marketing img{
+#search-engine-optimization img,#online-reputation-management img,#social-media-marketing img{
     max-height: 200px;
 }
 
-.search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2 {
+#search-engine-optimization h2,#online-reputation-management h2,#social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
